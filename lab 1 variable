@@ -1,0 +1,10 @@
+public class variable { 
+  public static void main(String[] args) {
+        int age =22;
+        double pi= 3.13; 
+        String name = "MEHDI"; 
+        System.out.println(age);
+        System.out.println(pi); 
+        System.out.println(name);
+         }
+  }
